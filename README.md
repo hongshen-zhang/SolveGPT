@@ -6,7 +6,7 @@ NeoWizard : 基于Web3的去中心化数学平台
 ## AI集智数学老师
 
 ### Demo图片
-<img width="799" alt="image" src="https://github.com/hongshen-zhang/SolveGPT/assets/51727955/8f96e4ec-0196-4943-a2dd-6056e391fe32">
+![图片](https://github.com/hongshen-zhang/SolveGPT/assets/51727955/8f96e4ec-0196-4943-a2dd-6056e391fe32)
 
 ### Resource 资源
 
@@ -29,7 +29,9 @@ Demo 视频：[AI集智数学老师](https://www.bilibili.com/video/BV1yj411R7FR
 ## AI数学助教
 
 ### Demo 图片
-<img width="698" alt="image" src="https://github.com/hongshen-zhang/SolveGPT/assets/51727955/8ca81946-6b08-4931-b753-e3b5393d610a">
+![图片](https://github.com/hongshen-zhang/SolveGPT/assets/51727955/8ca81946-6b08-4931-b753-e3b5393d610a)
+<img width="688" alt="image" src="https://github.com/hongshen-zhang/SolveGPT/assets/51727955/39658ecb-c8c6-4ef7-917c-d2483c025b5b">
+
 
 ### Resource 资源
 
@@ -38,9 +40,9 @@ Demo 视频：[AI数学助教演示](https://www.bilibili.com/video/BV1YP411a7PT
 
 ### Demand 实际需求
 1. 老师时间有限，无法兼顾数量与质量
-<img width="675" alt="image" src="https://github.com/hongshen-zhang/SolveGPT/assets/51727955/b45e8be1-3a4a-49b9-a195-7fe3fc85c70a">
+![图片](https://github.com/hongshen-zhang/SolveGPT/assets/51727955/b45e8be1-3a4a-49b9-a195-7fe3fc85c70a)
 2. 学生花费大量时间，自我监督能力差，难以总结错误
-<img width="682" alt="image" src="https://github.com/hongshen-zhang/SolveGPT/assets/51727955/9d58d768-3b07-40ec-b1a5-cbf3231f0939">
+![图片](https://github.com/hongshen-zhang/SolveGPT/assets/51727955/9d58d768-3b07-40ec-b1a5-cbf3231f0939)
 
 ## NeoWizard
 
