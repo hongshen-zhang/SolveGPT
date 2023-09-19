@@ -11,8 +11,11 @@ The first user who poses each question **owns the rights to the math lecture not
 
 ## Resource
 Deck Link：[NeoWizard](https://docs.google.com/presentation/d/112biul8r-p6cwILilqTb5WUsT9FU2Aya/edit?usp=sharing&ouid=102147246522693605617&rtpof=true&sd=true)
+
 Demo Video Link: [NeoWizard](https://drive.google.com/file/d/1_2itzjz-bNiD3maZFQ1ia5j579MU0f_E/view?usp=sharing)
+
 Website ：[NeoWizard](solvegpt.cn/neopay/)
+
 Android : [NeoWizard](https://github.com/hongshen-zhang/AI-Math-Teacher/releases/tag/v0.0.1)
 
 ## Demand
