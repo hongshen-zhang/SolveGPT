@@ -1,6 +1,6 @@
-## AI集智数学老师 : 一键学懂数学题
-## AI数学助教 : 一键批改数学业并整理错题本
-## NeoWizard : 基于Web3的去中心化数学平台
+## [AI集智数学老师 : 一键学懂数学题](./AI_Teacher_Readme.md) 
+## [AI数学助教 : 一键批改数学业并整理错题本](./AI_Assistant_Readme.md) 
+## [NeoWizard : 基于Web3的去中心化数学平台](./NeoWizard_Readme.md)
 
 # AI集智数学老师 : 一键学懂数学题
 
