@@ -74,20 +74,5 @@ Android : [NeoWizard](https://github.com/hongshen-zhang/AI-Math-Teacher/releases
 ![image](https://github.com/hongshen-zhang/NeoWizard/assets/51727955/67e467cd-0535-44a1-bdbc-e5328dcf0a66)
 ![image](https://github.com/hongshen-zhang/NeoWizard/assets/51727955/5f059fec-d526-4d4e-92fc-a2fc5664b68e)
 
-# 开发进度
 
-目前项目比较早期，也欢迎大家提需求
-
-| 需求         | 描述                                                     | 时间 | 进度 |
-| ------------ | -------------------------------------------------------- | ---- | ---- |
-| 基本功能     | 网页端上线           | 7 月 | ✅   |
-| 基本功能     | 安卓端上限                             | 8 月 | ✅   |
-| 基本功能      | 自动生成beamer                  | 8 月 | ✅   |
-| 写专利 1/2       | 一种基于多模型对抗的数学问题答案生成方法                   | 8 月 | ✅   |
-| 写专利 2/2     | 一种基于beamer的自动化数学课件生成方法              | 8 月 |✅   |
-| 基本功能     | 支持中英文，黑暗模式，不同学历              | 8 月 |✅   |
-| 基本功能     | 上线web3支付功能                | 8 月 |✅   |
-| 代码优化   | 加快运行速度                                 | 9 月 | ❌   |
-| 注册域名   | solvegpt.cn                                 | 9 月 | ✅   |
-| 正式上线 | 增加登录功能                             | 10 月 | ❌   |
 
