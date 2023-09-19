@@ -2,7 +2,7 @@
 ## AI数学助教 : 一键批改数学业并整理错题本
 ## NeoWizard : 基于Web3的去中心化数学平台
 
-# AI集智数学老师
+# AI集智数学老师 : 一键学懂数学题
 
 ## Demo图片
 ![图片](https://github.com/hongshen-zhang/SolveGPT/assets/51727955/8f96e4ec-0196-4943-a2dd-6056e391fe32)
@@ -25,7 +25,7 @@ Demo 视频：[AI集智数学老师](https://www.bilibili.com/video/BV1yj411R7FR
 ![图片](https://github.com/hongshen-zhang/Unique-hackday_solvegpt/assets/51727955/7777975e-be56-4f78-a2f6-7607d85b3f57)
 ![图片](https://github.com/hongshen-zhang/Unique-hackday_solvegpt/assets/51727955/5435abf1-5a8f-4285-b4e4-e894bc64de28)
 
-# AI数学助教
+# AI数学助教 : 一键批改数学业并整理错题本
 
 ## Demo 图片
 ![图片](https://github.com/hongshen-zhang/SolveGPT/assets/51727955/8ca81946-6b08-4931-b753-e3b5393d610a)
@@ -42,7 +42,7 @@ Demo 视频：[AI数学助教演示](https://www.bilibili.com/video/BV1YP411a7PT
 2. 学生花费大量时间，自我监督能力差，难以总结错误
 ![图片](https://github.com/hongshen-zhang/SolveGPT/assets/51727955/9d58d768-3b07-40ec-b1a5-cbf3231f0939)
 
-# NeoWizard
+# NeoWizard : Blockchain AI Math Teacher
 
 ## For Problem solving
 Facilitate an entire process, from capturing math problems via photos to producing automated teaching materials. Its edge over other tools lies in its accuracy and the intelligibility of its answers.
