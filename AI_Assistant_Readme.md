@@ -7,6 +7,7 @@
 ## Resource 资源
 
 Demo 视频：[AI数学助教演示](https://www.bilibili.com/video/BV1YP411a7PT/?share_source=copy_web&vd_source=2402ea50d5e761d0c54f9f9cb8f35a85)
+
 网页版：[AI数学助教网页](http://110.40.186.52:10000/)
 
 ## Demand 实际需求
