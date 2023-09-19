@@ -74,8 +74,21 @@ Android : [NeoWizard](https://github.com/hongshen-zhang/AI-Math-Teacher/releases
 ![image](https://github.com/hongshen-zhang/NeoWizard/assets/51727955/67e467cd-0535-44a1-bdbc-e5328dcf0a66)
 ![image](https://github.com/hongshen-zhang/NeoWizard/assets/51727955/5f059fec-d526-4d4e-92fc-a2fc5664b68e)
 
-# 其他项目
-## [AI集智数学老师 : 一键学懂数学题](./AI_Teacher_Readme.md) 
-## [AI数学助教 : 一键批改数学业并整理错题本](./AI_Assistant_Readme.md) 
-## [NeoWizard : 基于Web3的去中心化数学平台](./NeoWizard_Readme.md)
+## Plan 
+
+
+| Requirement  | Description                                                 | Time | Progress |
+| ------------ | ----------------------------------------------------------- | ---- | -------- |
+| Basic Feature | Website launch                                              | July | ✅       |
+| Basic Feature | Android version release                                     | Aug  | ✅       |
+| Basic Feature | Automatic beamer generation                                 | Aug  | ✅       |
+| Basic Feature | Support for Chinese and English, dark mode, different levels| Aug  | ✅       |
+| Basic Feature | Launch web3 payment function                                | Aug  | ✅       |
+| Patent 1/2   | A method for generating math problem answers based on multi-model adversarial approaches | Sept | ✅       |
+| Patent 2/2   | An automated mathematical lecture note generation method based on beamer | Sept | ✅       |
+| Code Optimization | Speed up execution                                       | Sept | ❌       |
+| Domain Registration | solvegpt.cn                                             | Sept | ✅       |
+| Official Launch | Add login function                                         | Oct  | ❌       |
+
+
 
