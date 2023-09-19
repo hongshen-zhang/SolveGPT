@@ -74,5 +74,8 @@ Android : [NeoWizard](https://github.com/hongshen-zhang/AI-Math-Teacher/releases
 ![image](https://github.com/hongshen-zhang/NeoWizard/assets/51727955/67e467cd-0535-44a1-bdbc-e5328dcf0a66)
 ![image](https://github.com/hongshen-zhang/NeoWizard/assets/51727955/5f059fec-d526-4d4e-92fc-a2fc5664b68e)
 
-
+# 其他项目
+## [AI集智数学老师 : 一键学懂数学题](./AI_Teacher_Readme.md) 
+## [AI数学助教 : 一键批改数学业并整理错题本](./AI_Assistant_Readme.md) 
+## [NeoWizard : 基于Web3的去中心化数学平台](./NeoWizard_Readme.md)
 
