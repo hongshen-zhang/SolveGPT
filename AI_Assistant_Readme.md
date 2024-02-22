@@ -1,8 +1,7 @@
 # AI数学助教 : 一键批改数学业并整理错题本
 
 ## Demo 图片
-![图片](https://github.com/hongshen-zhang/SolveGPT/assets/51727955/8ca81946-6b08-4931-b753-e3b5393d610a)
-
+<img width="1162" alt="image" src="https://github.com/hongshen-zhang/SolveGPT/assets/51727955/8ee6e1cf-4f43-4bae-9685-b8259cfa79cc">
 
 ## Resource 资源
 
