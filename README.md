@@ -97,4 +97,48 @@ Android : [NeoWizard](https://github.com/hongshen-zhang/AI-Math-Teacher/releases
 | Official Launch | Add login function                                         | Oct  | ❌       |
 
 
+常规提示词结构：
+```
+import erniebot
+erniebot.api_type = 'aistudio'
+erniebot.access_token = '<your token>’
+user_input = "请判断1+1=3是否正确，正确请使用'正确'表示，错误请使用'错误'表示，请仅输出'正确'和'错误',请勿输出其他任何信息"
+response = erniebot.ChatCompletion.create(
+    model='ernie-3.5',
+    messages=[{
+        'role': 'user',
+        'content': user_input
+    }])
+print(response.get_result())
+```
+
+Prompt基础框架+单任务格式化输出：
+```
+import erniebot
+erniebot.api_type = 'aistudio'
+erniebot.access_token = '<your token>’
+user_input = "请判断学生说的话是否正确 \n 学生说的话：1+1=3 \n 信息：正确请使用'正确'表示，错误请使用'错误'表示 \n 输出格式：\n###是否正确\n{是否正确}"
+response = erniebot.ChatCompletion.create(
+    model='ernie-3.5',
+    messages=[{
+        'role': 'user',
+        'content': user_input
+    }])
+print(response.get_result())
+```
+
+Prompt基础框架+多任务格式化输出：
+```
+import erniebot
+erniebot.api_type = 'aistudio'
+erniebot.access_token = '<your token>’
+user_input = "请判断学生说的话是否正确 \n 学生说的话：1+1=3 \n 信息：正确请使用'正确'表示，错误请使用'错误'表示 \n 输出格式：\n###是否正确\n{是否正确} \n###学生的错误\n{学生的错误}"
+response = erniebot.ChatCompletion.create(
+    model='ernie-3.5',
+    messages=[{
+        'role': 'user',
+        'content': user_input
+    }])
+print(response.get_result())
+```
 
