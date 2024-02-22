@@ -1,19 +1,24 @@
-# AI数学助教 : 一键批改数学业并整理错题本
+# AI数学助教 : 纸质作业留痕批改机器
 
-## Demo 图片
-<img width="1162" alt="image" src="https://github.com/hongshen-zhang/SolveGPT/assets/51727955/8ee6e1cf-4f43-4bae-9685-b8259cfa79cc">
+## Introduction 项目简介
+
+<img width="613" alt="image" src="https://github.com/hongshen-zhang/SolveGPT/assets/51727955/238c5d27-8ca1-4c22-93d5-4106bc9a060f">
+
+批改效果：<img width="1110" alt="image" src="https://github.com/hongshen-zhang/SolveGPT/assets/51727955/59e365f8-d7a9-458d-a87e-b0abb1b750f1">
+
 
 ## Resource 资源
 
 Demo 视频：[AI数学助教演示](https://www.bilibili.com/video/BV1YP411a7PT/?share_source=copy_web&vd_source=2402ea50d5e761d0c54f9f9cb8f35a85)
 
-网页版：[AI数学助教网页](https://www.solvegpt.cn)
+项目网页：[AI数学助教网页](https://www.solvegpt.cn)
 
-## Demand 实际需求
-1. 老师时间有限，无法兼顾数量与质量
-![图片](https://github.com/hongshen-zhang/SolveGPT/assets/51727955/b45e8be1-3a4a-49b9-a195-7fe3fc85c70a)
-2. 学生花费大量时间，自我监督能力差，难以总结错误
-![图片](https://github.com/hongshen-zhang/SolveGPT/assets/51727955/9d58d768-3b07-40ec-b1a5-cbf3231f0939)
+
+## 项目进展
+<img width="1188" alt="image" src="https://github.com/hongshen-zhang/SolveGPT/assets/51727955/898f9fd3-75fd-4060-a88c-1693b894e2b6">
+
+<img width="1190" alt="image" src="https://github.com/hongshen-zhang/SolveGPT/assets/51727955/05acda28-e363-4fd5-a878-03bd07da9afd">
+
 
 # 其他项目
 ## [AI集智数学老师 : 一键学懂数学题](./AI_Teacher_Readme.md) 
